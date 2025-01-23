@@ -36,7 +36,7 @@ export const Usuarios = () => {
 
     return (
         <div>
-            <h3>Usuarios</h3>
+            <h3>Usuariossssss</h3>
             <table className="table table-striped table-border table-hover table-dark">
                 <thead>
                     <tr>
